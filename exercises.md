@@ -5,7 +5,7 @@
 Refactor the `date` and `firstPublished` data so it appears in the format of `1st Jan 2019, 01:00`
 
 - Modify `_source.date` and `_source.firstPublished` in the `Articles/index.tsx` file
-- Make your own function that recieves a `Date` input and returns a `string`
+- Make your own function that receives a `Date` input and returns a `string`
 - The format should be `dS F Y, H:i`
 
 ## Readable numbers (S)
@@ -29,7 +29,7 @@ Refactor the table data so it aggregates the `cpsid`. This means all entries of 
 - Modify the `Articles` page so that it shows a `total page views` for each article
 - Group together all entries from r1 and r2 data sources by the CPS id and sum together `views`
 
-Note, the cpsid is the cononical ID for a single BBC article.
+Note, the cpsid is the canonical ID for a single BBC article.
 
 ## Sort the article data (M)
 
@@ -38,5 +38,5 @@ so that we can see the both the top articles, and the lowest, but also order thi
 
 - Make the table header clickable
 - When you click on a column header, it will reorganise the order of the data based on what header you clicked.
-- The first click should sort the items in an accessending order
+- The first click should sort the items in an ascending order
 - The second click should sort the items in a descending order
