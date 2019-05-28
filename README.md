@@ -34,7 +34,7 @@ jest --coverage
 
 ## Exercises
 
-Visit github issues to see a choice of possible tasks for this exercise. Choose a maximum of 2 tasks and limit yourself to just 2 hours. Don't worry if you have not finished, commit your code and be ready to talk about the changes you have made in a face to face interview. Quality of execution is more important than quantity of it.
+Visit [github issues](https://github.com/danm/se-home-exorcise/issues) to see a choice of possible tasks for this exercise. Choose a maximum of 2 tasks and limit yourself to just 2 hours. Don't worry if you have not finished, commit your code and be ready to talk about the changes you have made in a face to face interview. Quality of execution is more important than quantity of it.
 
 Key things to think about
 
@@ -49,3 +49,7 @@ Key things to think about
 - To make changes to the code, first branch from master, creating a branch for each issue you are tackling.
 - Refactor the code or integrate the new features which your tasks require.
 - Once you are finished, create a Pull Request, write about the change you made ready for a code review.
+
+## Package Size
+
+The size of this repo is rather large because of the data that has been included. Ideally this data would be served from a server and which reduces the data before it is sent down the wire, however, this is out of scope for this exercise.

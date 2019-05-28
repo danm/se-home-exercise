@@ -20,7 +20,7 @@ function Home() {
         </P>
         <P>
           Visit
-          <Link to="/about/"> Github issues </Link>
+          <a href="https://github.com/danm/se-home-exorcise/issues"> Github issues </a>
           to see a choice of possible tasks for this exercise.
           Choose a maximum of 2 tasks and limit yourself to just 2 hours.
           Don&apos;t worry if you havn&apos;t finished, commit your code and be ready
